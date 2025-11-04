@@ -25,3 +25,6 @@ git push
 
 
 oiiiiiiiii
+
+Teste de conflitos
+Treinamento
