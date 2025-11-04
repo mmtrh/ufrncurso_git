@@ -25,6 +25,5 @@ git push
 
 Adicionar mais essa observação
 
-novo conflito resolvendo
 
-qualquer coisa serve
+novo conflito resolvendo agora
