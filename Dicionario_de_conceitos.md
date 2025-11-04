@@ -23,8 +23,6 @@ git add coloque o nome do arquivo
 git commit -m "toda a descrição realizada no documento"
 git push
 
+Adicionar mais essa observação
 
-oiiiiiiiii
-
-Teste de conflitos
-Treinamento
+Conflito resolvido
