@@ -24,3 +24,5 @@ git commit -m "toda a descrição realizada no documento"
 git push
 
 Adicionar mais essa observação
+
+novo conflito resolvendo
