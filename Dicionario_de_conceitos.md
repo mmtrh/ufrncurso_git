@@ -14,14 +14,13 @@ Rotina basica de criação de um ponto na linha do tempo
 - Repositorio local: Area no meu computador com o histórico (commits). Encontrado como forma de arquivo na pasta .git. Proteger com seriedade.
 
 
+- Mudança para testar colaboração entre máquinas diferentes em um mesmo reposítório. 
 
+- comentário: após o nome da pasta no cando esquerdo do pront se tiver uma bolinha branca, será necessário salvar as alterações, e, para isso aperte a tecla ctrl s automaticamente. Posteriormente você segue os seguintes comandos:
 
+git status 
+git add coloque o nome do arquivo
+git commit -m "toda a descrição realizada no documento"
+git push
 
-
-
-
-
-
-
-
-olaaaaaaa
+Adicionar mais essa observação
